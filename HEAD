@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 14e14dbf1023696d670550f61dcb57390595350f root <root@localhost> 1772323731 +0800	
+14e14dbf1023696d670550f61dcb57390595350f 44c06208f7dd69c5569ba01279d68f1bf7519011 root <root@localhost> 1772325176 +0800	commit (amend): 更新 README.md
+44c06208f7dd69c5569ba01279d68f1bf7519011 880415067caf58481e915e25101e1df962be266d root <root@localhost> 1772325622 +0800	commit (amend): 更新 README.md
+880415067caf58481e915e25101e1df962be266d 14e14dbf1023696d670550f61dcb57390595350f root <root@localhost> 1772325948 +0800	origin/main: updating HEAD
+14e14dbf1023696d670550f61dcb57390595350f 45e66e6e0372135330927eecf06dd516019ced35 root <root@localhost> 1772326049 +0800	commit (amend): 更新 README.md
+45e66e6e0372135330927eecf06dd516019ced35 14e14dbf1023696d670550f61dcb57390595350f root <root@localhost> 1772326934 +0800	origin/main: updating HEAD
+14e14dbf1023696d670550f61dcb57390595350f e55ac5da5500515e2c124882fdc081b27a2ef983 root <root@localhost> 1772327024 +0800	commit (amend): 更新 README.md
+e55ac5da5500515e2c124882fdc081b27a2ef983 80172e47da10293fe3fad0fd526a7f40dee16b73 root <root@localhost> 1772327940 +0800	commit (amend): 更新 README.md
+80172e47da10293fe3fad0fd526a7f40dee16b73 d47d50c061c2d675e1ef43f87483c40a315fe96f root <root@localhost> 1772337416 +0800	commit: 添加了update文件
+d47d50c061c2d675e1ef43f87483c40a315fe96f 51d7586833be8ce7c54ef4f499e083c9be1aa2c3 root <root@localhost> 1772346516 +0800	commit: 更新UPDATE下载地址。
+51d7586833be8ce7c54ef4f499e083c9be1aa2c3 92d9339e6f3f2c1fe6a5c0752436bc18ffec9e9b root <root@localhost> 1772348176 +0800	commit (amend): 更新UPDATE下载地址。
+92d9339e6f3f2c1fe6a5c0752436bc18ffec9e9b b7ad544d6ddfa9e94dd202bb3e37bfef590db211 root <root@localhost> 1772362399 +0800	commit (amend): 更新UPDATE下载地址。
+b7ad544d6ddfa9e94dd202bb3e37bfef590db211 22dba2f07c93f0e5f61ad78d5a0ceb927372d497 root <root@localhost> 1772362406 +0800	commit (amend): 更新UPDATE下载地址。
+22dba2f07c93f0e5f61ad78d5a0ceb927372d497 0ed9d37c3e13440930d2a66b7858918d52d2c08d root <root@localhost> 1772379936 +0800	commit: 更新apk版本，启动自动查询更新
+0ed9d37c3e13440930d2a66b7858918d52d2c08d 4f6748683635d9e94bf8f8e8e401ae05a8548848 root <root@localhost> 1772381145 +0800	origin/main: updating HEAD
+4f6748683635d9e94bf8f8e8e401ae05a8548848 c46eaf2c6305d918965d74d6f83befd061d2ba82 root <root@localhost> 1772381550 +0800	commit (amend): 修改update
+c46eaf2c6305d918965d74d6f83befd061d2ba82 9d08dc3126393a9e4cf7f1bbb453b2aff9f7c669 root <root@localhost> 1772381639 +0800	merge branch 'main' of https://github.com/DTxiaweibing/TIMU: Merge made by recursive.
+9d08dc3126393a9e4cf7f1bbb453b2aff9f7c669 625d404df5041b90572b2eec9cf384aaaacb728b root <root@localhost> 1772383692 +0800	commit (amend): 修改update
+625d404df5041b90572b2eec9cf384aaaacb728b 687d0d10fa74c8b0865cbbc5e9f006a89c79de06 root <root@localhost> 1772383914 +0800	merge branch 'main' of https://github.com/DTxiaweibing/TIMU: Merge made by recursive.
+687d0d10fa74c8b0865cbbc5e9f006a89c79de06 cc985b612cbca573c97d4926f347d08bbcff9499 root <root@localhost> 1772420976 +0800	commit: 发布新版本apk更新UPDATE。
+cc985b612cbca573c97d4926f347d08bbcff9499 9fa035fe5b3ac664d8a9a022ad923f74fcf0e1dd root <root@localhost> 1772421586 +0800	commit: 修改网页版本号错误
+9fa035fe5b3ac664d8a9a022ad923f74fcf0e1dd 533fb35c978f8a1364effad16c7ea26982438590 root <root@localhost> 1772421746 +0800	commit (amend): 修改网页版本号错误
+533fb35c978f8a1364effad16c7ea26982438590 b5bc818530be26d9eab2132054d4ceda14d17820 root <root@localhost> 1772428537 +0800	commit (amend): 更新UPDATE
+b5bc818530be26d9eab2132054d4ceda14d17820 3da83dbee2740ef84bb243cd5c8e624cc20f4615 root <root@localhost> 1772515930 +0800	commit (amend): 更新UPDATE
+3da83dbee2740ef84bb243cd5c8e624cc20f4615 3b72866f0f13c501dbbfa2f43e0bdc3d656d09e1 root <root@localhost> 1772516713 +0800	commit (amend): 更新UPDATE
+3b72866f0f13c501dbbfa2f43e0bdc3d656d09e1 d0c5a317f35d912c65d9b6b244a0d646f6d1b15a root <root@localhost> 1772558430 +0800	commit (amend): 更新UPDATE
+d0c5a317f35d912c65d9b6b244a0d646f6d1b15a dc63a8896b97c4b600963c22fc6ac7de50d38712 root <root@localhost> 1772631391 +0800	commit: 恢复丢失的题库文件
+dc63a8896b97c4b600963c22fc6ac7de50d38712 586dff3a29b13f94f343750338b5b66b699c2565 root <root@localhost> 1772644499 +0800	merge branch 'main' of https://github.com/DTxiaweibing/TIMU: Fast-forward
+586dff3a29b13f94f343750338b5b66b699c2565 7a834f74209d300cebdbc66f148981fea5cd021e root <root@localhost> 1772683513 +0800	commit (amend): 通过JSON生成器更新配置文件
+7a834f74209d300cebdbc66f148981fea5cd021e a24eac4784b1ea9c92898ee2304bfcf9be6f14f4 root <root@localhost> 1772771358 +0800	commit: 网页文件修改
